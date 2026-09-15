@@ -1,0 +1,6 @@
+{
+  "name": "MechaMinds AI SOC Command",
+  "description": "Production-grade Credit Card Fraud Detection Microservice & SOC Command Center with 5-pillar weighted scoring engine and real-time triage ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
